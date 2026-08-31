@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-This is a bug fix for typo in README file.
+This is a fix for typo in README file.
